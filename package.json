@@ -2,7 +2,7 @@
   "name": "react-example",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://your-github-prathampmrocker.github.io/Pratham-s-portfolio-website",
+  "homepage": "https://prathampmrocker-del.github.io/Pratham-s-portfolio-website",
   "type": "module",
   "scripts": {
     "dev": "vite --port=3000 --host=0.0.0.0",
